@@ -1,5 +1,7 @@
-# File in : 
-# PATH_TO_LOG
+#!/usr/bin/env python3
+
+# wu_2_wow_feeder by ZeRoY - April 2025
+# Replace PATH_TO_LOG
 
 import os
 import time

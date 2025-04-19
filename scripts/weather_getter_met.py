@@ -1,7 +1,10 @@
-# Wundeground data - Fill in:
+#!/usr/bin/env python3
+
+# wu_2_wow_feeder by ZeRoY - April 2025
+# Wunderground API - Replace:
 # STATION_ID & API_KEY in https://api.weather.com/v2/pws/observations/current?stationId=STATION_ID&format=json&units=m&apiKey=API_KEY
 # 
-# Met Office Data - Fill in:
+# Met Office Data - Replace:
 # SITE_ID & SITE_KEY in http://wow.metoffice.gov.uk/automaticreading?siteid=SITE_ID&siteAuthenticationKey=SITE_KEY&dateutc=
 
 import os
