@@ -1,4 +1,4 @@
-# metoffice_wow_feeder
+# WOW Data Upload for Wunderground API users
 Python scripts to push WeatherUnderground API data to Met Office UK/Ireland WOW (Weather Observations Website)
 
 You will need to install additional Pythoin Modules:
