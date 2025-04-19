@@ -13,8 +13,8 @@ metoffice_weather.py:
 - PATH_TO_LOG
 
 weather_getter_net.py:
-- STATION_ID & API_KEY in https://api.weather.com/v2/pws/observations/current?stationId=STATION_ID&format=json&units=m&apiKey=API_KEY
-- SITE_ID & SITE_KEY in http://wow.metoffice.gov.uk/automaticreading?siteid=SITE_ID&siteAuthenticationKey=SITE_KEY&dateutc=
+- Wunderground API: STATION_ID & API_KEY
+- WoW API: SITE_ID & SITE_KEY
 
 Signup for Weather Underground for compatible Weather Stations (Free): www.wunderground.com/signup
 Signup for MetOffice WOW Site: https://wow.metoffice.gov.uk/
