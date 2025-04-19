@@ -22,6 +22,4 @@ More informations on the Format used by MEt Office WOW for Data Upload: https://
 
 What is WOW (Weather Observations Website)?
 
-The 'Weather Observations Website' (WOW) reflects recent advances in technology and how weather observations can be made. At the same time, the growing world of social networking online makes it relatively easy for anyone to get involved and share their weather observations.
-
-    The Met Office is helping to co-ordinate the growth of the weather observing community in the UK, by asking anyone to submit the observations they are taking. This can be done using all levels of equipment, so there are no cost restrictions.
+The 'Weather Observations Website' (WOW) reflects recent advances in technology and how weather observations can be made. At the same time, the growing world of social networking online makes it relatively easy for anyone to get involved and share their weather observations. The Met Office is helping to co-ordinate the growth of the weather observing community in the UK, by asking anyone to submit the observations they are taking. This can be done using all levels of equipment, so there are no cost restrictions.
